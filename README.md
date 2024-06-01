@@ -1,3 +1,5 @@
+# Кадочников, группа 6260
+https://github.com/SURikatov/HotDrink
 # Hot Drink Vending Machine Project
 
 ## Описание
